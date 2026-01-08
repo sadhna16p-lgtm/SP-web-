@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(10, 39, 31);
+    color: rgb(238, 192, 178);
+    text-align: center
+
+}
+header{
+    background-color: rgb(238, 200, 194);
+    color: rgb(3, 27, 11);
+    padding: 50px;
+    gap: 10px;
+}
+button{
+    padding: 10px 25px;
+    background-color: rgb(243, 207, 199);
+    color: rgb(3, 39, 12);
+    border: none;
+    cursor: pointer;
+    border-radius: 80px;
+    text-align: bold;
+    
+}

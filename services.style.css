@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(10, 29, 6);
+    color: rgb(235, 184, 171);
+    text-align: center;
+}
+header{
+    text-align: center;
+    background-color: rgb(243, 189, 179);
+    color: rgb(243, 187, 180);
+    background-image: url(back.png);
+}
+header h3{
+    font-size: 50px;
+}
+header p{
+    font-size: 30px;
+}
+body h3{
+    font-size: 30px;
+}
+body p{
+    font: size 20px; ;
+}
+

@@ -1,0 +1,89 @@
+body{
+    margin: 0%;
+    background-color: rgb(12, 37, 37);
+    color: rgb(233, 188, 174);
+}
+header{
+    background-image: url(Black\ Elegant.png);
+    text-align: center;
+    align-items: center;
+    gap: 40px;
+    padding: 20px;
+    background-color: rgb(236, 200, 176);
+
+}
+header h1{
+    color: rgb(253, 252, 251);
+    font-size: 35px;
+}
+header p{
+    color: rgb(169, 235, 215);
+    
+}
+nav{
+    background-color: rgb(247, 201, 180);
+    text-align: center;
+    padding: 8px;
+    gap: 10px;;
+}
+nav a{
+    color: rgb(22, 39, 25);
+    margin: 15px;
+    text-decoration: none;
+    font-weight: bold;
+    gap: 100px;
+    font-size: large;
+
+}
+nav a:hover{
+    color: rgb(247, 3, 3);
+}
+section{
+    padding: 10px 20px;
+    text-align: center;
+}
+button{
+    padding: 10px 25px;
+    background-color: rgb(233, 198, 169);
+    color: rgb(5, 126, 11);
+    border: none;
+    cursor: pointer;
+    border-radius: 80px;
+    text-align: bold;
+}
+button:hover{
+    color: black;
+}
+footer{
+    background-color: rgb(28, 28, 54);
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+}
+.logo{
+    width: 10px;
+    margin-bottom: 10px;
+}
+.header-text{
+    display: flex;
+    flex-direction: column;
+    gap: 10px
+    ;
+}
+#about{
+    background-image: url(ground.png);
+    color: white;
+}
+#contact-us{
+    background-image: url(ground.png);
+    color: white;
+}
+section-h1{
+    font: size 30px; ;
+
+}
+section-p{
+    font-size: 15px;
+}
+
+
